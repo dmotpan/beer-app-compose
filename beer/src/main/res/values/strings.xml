@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abv_units">ABV\n</string>
+    <string name="ibu_units">IBU\n</string>
+    <string name="srm_units">SRM\n</string>
+</resources>
